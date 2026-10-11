@@ -1,0 +1,22 @@
+COMPLETENESS
+============================================================
+eps = dt/t_c: 0.0010 0.0022 0.0046 0.0100 0.0215 0.0464 0.1000 0.2154 0.4642 1.0000 2.1544 4.6416 10.0000
+
+Gaussian simulation / exact Spitzer sum:
+  1.029 1.013 0.989 1.003 1.003 1.003 0.999 0.999 0.999 1.000 1.000 1.000 1.000
+
+Two-term asymptote / exact Spitzer sum:
+  eps=0.0001: relative error 4.89e-09
+  eps=0.001: relative error 1.55e-07
+  eps=0.01: relative error 4.89e-06
+  eps=0.1: relative error 1.54e-04
+
+c / sqrt(eps) at eps=1e-3 and fitted exponent (eps <= 1e-2):
+  gauss      ratio 1.015   exponent 0.475
+  laplace    ratio 0.982   exponent 0.506
+  student3   ratio 1.026   exponent 0.506
+  stable1.5  ratio 1.014   exponent 0.460
+  stable1.2  ratio 0.830   exponent 0.410
+  fbm0.3     ratio 0.337   exponent 0.679
+  fbm0.5     ratio 0.959   exponent 0.497
+  fbm0.7     ratio 3.256   exponent 0.271

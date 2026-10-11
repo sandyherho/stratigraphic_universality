@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "stratigraphic_universality: supplementary code for Universality and Information Loss in the Stratigraphic Record"
+version: 0.1.0
+license: MIT
+repository-code: "https://github.com/sandyherho/stratigraphic_universality"
+authors:
+  - family-names: Herho
+    given-names: Sandy Hardian Susanto
+    affiliation: "Applied Geology Research Group, Bandung Institute of Technology"
+    email: sandyherho@itb.ac.id
+  - family-names: Irawan
+    given-names: Dasapta Erwin
+    affiliation: "Applied Geology Research Group, Bandung Institute of Technology"
+    email: dasaptaerwin@itb.ac.id
+  - family-names: Kapid
+    given-names: Rubiyanto
+    affiliation: "Paleontology and Quaternary Geology Research Group, Bandung Institute of Technology"
+keywords:
+  - stratigraphy
+  - sadler-effect
+  - record-statistics
+  - persistence
+  - cyclostratigraphy

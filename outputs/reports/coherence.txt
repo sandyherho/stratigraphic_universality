@@ -1,0 +1,17 @@
+DEPTH-DOMAIN COHERENCE
+============================================================
+omega t_c: 0.050 0.073 0.105 0.153 0.222 0.322 0.467 0.677 0.982 1.425 2.068 3.000
+
+fitted / exact, for omega t_c >= 0.15:
+  gauss      half-width 0.993..1.134   wavenumber 0.986..1.019
+  laplace    half-width 0.959..1.025   wavenumber 1.001..1.010
+  student3   half-width 0.976..1.094   wavenumber 0.980..1.019
+
+misregistration scaling exponents (dz/(v t_c) >= 10):
+  law         variance   IQR
+  gauss       0.996     0.542
+  laplace     0.975     0.516
+  stable1.5   1.050     0.746
+  fbm0.3      0.606     0.312
+  fbm0.7      1.278     0.803
+  Gaussian variance / (2 t_c dz / v), last five lags: 0.989 0.987 0.993 0.987 0.973

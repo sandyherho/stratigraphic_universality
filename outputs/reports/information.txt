@@ -1,0 +1,13 @@
+CHRONOMETRIC INFORMATION
+============================================================
+  omega t_c   bits at 1 cycle   cycles to 0.1 bit   N_coh
+     0.003          2.970             71.64      53.05
+     0.010          2.104             21.50      15.92
+     0.030          1.318              7.20       5.31
+     0.100          0.498              2.26       1.59
+
+t_c for ten coherent cycles, P/(40 pi^2), kyr:
+  P =   20 kyr: t_c <= 0.051
+  P =   41 kyr: t_c <= 0.104
+  P =  100 kyr: t_c <= 0.253
+  P =  405 kyr: t_c <= 1.026
