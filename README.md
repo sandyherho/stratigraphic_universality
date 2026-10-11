@@ -1,5 +1,20 @@
 # Stratigraphic Universality
 
+
+<p align="center">
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3.9%2B-3776AB?logo=python&logoColor=white" alt="Python 3.9+"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-2ea44f" alt="MIT License"></a>
+  <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy"></a>
+  <a href="https://scipy.org/"><img src="https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white" alt="SciPy"></a>
+  <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-11557C" alt="Matplotlib"></a>
+  <br>
+  <img src="https://img.shields.io/badge/code%20style-pycodestyle-informational" alt="pycodestyle">
+  <img src="https://img.shields.io/badge/docstrings-numpydoc-informational" alt="numpydoc docstrings">
+  <img src="https://img.shields.io/badge/results-fully%20reproducible-brightgreen" alt="Fully reproducible">
+  <img src="https://img.shields.io/badge/data-none%20required-lightgrey" alt="No external data">
+  <img src="https://img.shields.io/badge/status-manuscript%20in%20preparation-orange" alt="Manuscript in preparation">
+</p>
+
 Supplementary code for the manuscript
 
 > **Universality and Information Loss in the Stratigraphic Record**
