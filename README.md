@@ -1,4 +1,4 @@
-# stratigraphic_universality
+# Stratigraphic Universality
 
 Supplementary code for the manuscript
 
